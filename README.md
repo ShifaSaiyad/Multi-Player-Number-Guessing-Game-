@@ -37,6 +37,3 @@ Implement a high-score system saved to a local file.
 Allow for more than two players.
 </pre>
 
-
-<img width="531" height="788" alt="image" src="https://github.com/user-attachments/assets/0f16afd3-c8ae-4fa4-88cb-8a32fa0d0546" />
-
